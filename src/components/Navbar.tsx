@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
-import { useEffect, useState } from "react";
 import { useGlobalContext } from "@/app/Context/store";
 import './Navbar.css'
 
